@@ -26,6 +26,6 @@
             <?php endforeach; ?>
         </tbody>
     </table>
-    <a href="/">Back to Index</a>
+    <a href="/php-mvc/">Back to Index</a>
 </body>
 </html>
